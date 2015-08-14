@@ -26,10 +26,9 @@ Wanneer je het begrijpt is het helemaal niet zo moeilijk!
 
 
 ## Gebruikte bronnen
-- http://greensock.com/timelinemax
 - http://greensock.com/gsap
+- http://greensock.com/get-started-js
+- http://greensock.com/tweenmax
 - http://greensock.com/timelinemax
 - http://benfrain.com/selecting-svg-inside-tags-with-javascript/
 - The usefull videos at https://www.youtube.com/user/GreenSockLearning/videos
-- http://greensock.com/get-started-js
-- 
